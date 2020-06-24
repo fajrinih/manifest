@@ -1,37 +1,37 @@
 {
-  "name": "Fajrin.web.Id",
-  "short_name": "FajrinwebId",
-  "start_url": "https://www.fajrin.web.id/",
+  "name": "Fajrin.Net",
+  "short_name": "Fajrin.Net",
+  "start_url": "https://www.fajrin.net",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#00626B",
-  "description": "Seputar pengetahuan mengenai Blogger, SEO, Komputer, dan Internet dari Fajrin.web.Id",
+  "description": "Analisis SEO, tutorial Blogger, dan informasi perkembangan perangkat lunak atau internet tersaji di Fajrin.Net",
   "icons": [{
-    "src": "https://3.bp.blogspot.com/-NLNir7760xo/Wq4rpIk2J8I/AAAAAAAAGJw/sPGL2vvrhsAU-EIKSEb2HzeHhOe3xKt6wCK4BGAYYCw/s1600/Fajrin%2Bweb%2BId%2B48-min.png",
+    "src": "https://cdn.statically.io/img/3.bp.blogspot.com/-kawUem3S0Oo/XvN_wJLF8II/AAAAAAAAAF8/_cbY3A15BYEfq6WEuN6eR9m4CFaNeXkbgCK4BGAYYCw/s1600/Fajrin.Net%2B48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-eLRLeJfiS0Q/Wk8efkTvUEI/AAAAAAAAF00/Fx6IGa7G7OUvRsjKCKWsZ0MCMUfUnIolACK4BGAYYCw/s1600/Fajrin%2Bweb%2BId%2B72-min.png",
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-9rdlfKJkz8o/XvN_4B2AUWI/AAAAAAAAAGE/TRlSo0oJoa4SX7jsJgv9fDdx2gIa0pO3gCK4BGAYYCw/s1600/Fajrin.Net%2B72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-04fii0g5whA/Wk8ext1fYGI/AAAAAAAAF1E/4O0-GjmnXCAIhf_VKqhoo9x-_kzoTR-iQCK4BGAYYCw/s1600/Fajrin%2Bweb%2BId%2B96-min.png",
+    "src": "https://cdn.statically.io/img/3.bp.blogspot.com/-wnVJIsCAiT8/XvN_-3ZuWpI/AAAAAAAAAGM/V74Bk2E37x0UlIep9hrx6z7EdrC_IyKxwCK4BGAYYCw/s1600/Fajrin.Net%2B96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-nT0ey2goyCU/Wk8fMMcmMyI/AAAAAAAAF1g/XhGQDAC4uyko5Pbm2yu_q_qSHmRN10gkgCK4BGAYYCw/s1600/Fajrin%2Bweb%2BId%2B144-min.png",
+    "src": "https://cdn.statically.io/img/3.bp.blogspot.com/-uiCEQHnKf2A/XvOAHdK8rBI/AAAAAAAAAGY/yYzn6lpO5oAiH37sTMyZ-V4y-LPv_lWiwCK4BGAYYCw/s1600/Fajrin.Net%2B144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-gcKMEBDi4Ro/Wq4se6uva-I/AAAAAAAAGJ8/7DOFZs0ATvQp7Zp46h_n1o77pvJXUizHgCK4BGAYYCw/s1600/Fajrin%2Bweb%2BId%2B168-min.png",
+    "src": "https://cdn.statically.io/img/3.bp.blogspot.com/-LOg1Ujp2v1c/XvOANeQUCrI/AAAAAAAAAGk/Z2NdCQGW0WgRiaqkWbHRHuZdkz35HLHGgCK4BGAYYCw/s1600/Fajrin.Net%2B168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-thuevtd3eGA/Wk8flsMcGJI/AAAAAAAAF2A/1U9FqQVB2dYWbZsibtA9a3tnISyNV58lgCK4BGAYYCw/s1600/Fajrin%2Bweb%2BId%2B192-min.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-5LAImXtexZg/XvOAV8_ABHI/AAAAAAAAAGw/aD3OYnKni2YSgtnBXuV5ymjVsGdGauQ2QCK4BGAYYCw/s1600/Fajrin.Net%2B192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-WJQHPd0f_7s/Wq4s41HTXqI/AAAAAAAAGKE/ca22cYeJrBkM7yjmQl9aBW8o13kkmboIwCK4BGAYYCw/s1600/Fajrin%2Bweb%2BId%2B512-min.png",
+    "src": "https://cdn.statically.io/img/3.bp.blogspot.com/--cbgZ6nW4Ok/XvOAecVwkoI/AAAAAAAAAHA/SLZcisyHpqEPI21xiiRc56WGsELAB-OyQCK4BGAYYCw/s1600/Fajrin.Net%2B512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
